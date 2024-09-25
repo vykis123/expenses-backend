@@ -8,7 +8,7 @@ const handleGetAllExpenses = async (request, response) => {
       return response.status(201).json({ data: [] });
     }
 
-    response.status(201).json({ expenses: expenses });
+    response.status(202).json({ expenses: expenses });
   } catch (error) {
     response.status(500).json({ message: error.message });
   }
