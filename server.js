@@ -6,6 +6,9 @@ const connectDB = require("./config/dbCon");
 const cors = require("cors");
 
 connectDB();
+
+console.log(process.version);
+
 app.use(
   cors({
     origin: "*",
