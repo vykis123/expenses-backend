@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Purchase Title",
+    "date": "2024-08-01",
+    "price": 22.5,
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Namnesciunt, facere doloribus maiores iste cumque numquam itaque impedit culpa accusamus molestiae, repellat necessitatibus amet sequi commodi eum! Fugiat, et. Natus. Voluptates nulla, aut labore obcaecati distinctio veritatis vitae ullam ducimus ab quidem placeat reprehenderit blanditiis eveniet maiores, ratione iste modi perferendis cumque eos nesciunt officia! Fugit aperiam itaque totam mollitia!"
+  },
+  {
+    "id": "2",
+    "title": "Purchase Title",
+    "date": "2024-08-01",
+    "price": 22.5,
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Namnesciunt, facere doloribus maiores iste cumque numquam itaque impedit culpa accusamus molestiae, repellat necessitatibus amet sequi commodi eum! Fugiat, et. Natus. Voluptates nulla, aut labore obcaecati distinctio veritatis vitae ullam ducimus ab quidem placeat reprehenderit blanditiis eveniet maiores, ratione iste modi perferendis cumque eos nesciunt officia! Fugit aperiam itaque totam mollitia!"
+  },
+  {
+    "id": "3",
+    "title": "Purchase Title",
+    "date": "2024-08-01",
+    "price": 22.5,
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Namnesciunt, facere doloribus maiores iste cumque numquam itaque impedit culpa accusamus molestiae, repellat necessitatibus amet sequi commodi eum! Fugiat, et. Natus. Voluptates nulla, aut labore obcaecati distinctio veritatis vitae ullam ducimus ab quidem placeat reprehenderit blanditiis eveniet maiores, ratione iste modi perferendis cumque eos nesciunt officia! Fugit aperiam itaque totam mollitia!"
+  }
+]
